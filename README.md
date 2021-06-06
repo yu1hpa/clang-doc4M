@@ -5,7 +5,8 @@
 [yu1hpa](https://github.com/yu1hpa/)
 
 ### Usage
-[ここ](./src/clang-doc.md)から見れます。
+[markdown版](./src/clang-doc.md)
+[PDF版](./src/clang-doc.pdf)
 
 ### LICENCE
 [MIT LICENCE](./LICENCE)
